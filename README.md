@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Bookings App with Go.<br>🌱 I’m currently learning to build and deploy websites.<br>💬 Ask me about React, JS, Machine, and Deep Learning.<br>⚡ Fun fact: I like Liverpool Football Club.
+🔭 I’m currently working on NIFTY-LENS.<br>🌱 I’m currently learning to build and deploy websites.<br>💬 Ask me about Data Analysis, Artificial Engineering.<br>⚡ Fun fact: I like Liverpool Football Club.
 
 
 ## 🌐 Socials:
