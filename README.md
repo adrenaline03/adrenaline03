@@ -1,18 +1,30 @@
-# 💫 About Me:
-🔭 I’m currently working on NIFTY-LENS.<br>🌱 I’m currently learning to build and deploy websites.<br>💬 Ask me about Data Analysis, Artificial Engineering.<br>⚡ Fun fact: I like Liverpool Football Club.
+## Hi, I'm Nalin 👋
 
+AI/ML Engineer focused on **RAG and LLM systems**. Recently shipped production document-intelligence pipelines at **ARX (Dubai)** and built SQL data infrastructure for a SEBI-regulated credit rating agency.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagram.com/adre.nalin.e) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nalin-singhal-553b6a24a/) 
+Currently building **Nifty-Lens**, a volatility intelligence platform for the Indian markets, and exploring how to make ML systems more reliable in production.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=adrenaline03&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=adrenaline03&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adrenaline03&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+🏆 BlackRock HackKnight'24 Finalist — Top 10 of 2000+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=adrenaline03&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 Featured Project
+
+**[Nifty-Lens: Volatility Intelligence Platform](https://nifty-lens.streamlit.app)** &nbsp; · &nbsp; *PostgreSQL · XGBoost · Streamlit · Plotly*
+
+End-to-end analytics platform for the NIFTY 50, built around a question I cared about: *can a model meaningfully separate calm markets from turbulent ones?*
+
+- **Data layer** — PostgreSQL backend with 6 materialized views and 2 stored procedures, powering an ML pipeline that computes 12 engineered technical indicators across 59,763 rows of historical data.
+- **Model** — XGBoost volatility-regime classifier with time-series cross-validation. Hits **67.8% accuracy** (vs 33% random baseline) on a 3-class problem, and **86% accuracy on high-confidence predictions** covering 40% of the test set, with calibrated probabilities verified across confidence tiers.
+- **Key finding** — Switching the target from next-day to next-5-day volatility produced a **29-percentage-point accuracy lift** from a single-line code change — a larger gain than any hyperparameter tuning, and consistent with the volatility clustering literature.
+- **Interface** — 5-page Streamlit dashboard with an interactive portfolio analyzer.
+
+→ **[Live Demo](https://nifty-lens.streamlit.app)** · [Repo](https://github.com/adrenaline03/nifty-lens)
+
+---
+
+### 📫 Reach Me
+
+- **Email** — [nalin.singhal03@gmail.com](mailto:nalin.singhal03@gmail.com)
+- **LinkedIn** — [nalin-singhal](https://www.linkedin.com/in/nalin-singhal-553b6a24a/)
+- **Resume** — *available on request*
